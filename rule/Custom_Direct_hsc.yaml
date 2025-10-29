@@ -4,20 +4,15 @@
 # TOTAL: 
 
 payload:
-  - DOMAIN-SUFFIX,sub.hanshanchong.com
-  - DOMAIN-SUFFIX,cc.hanshanchong.com
+  - DOMAIN-KEYWORD,quickconnect
+  - DOMAIN-KEYWORD,synology
+  - DOMAIN-SUFFIX,hanshanchong.com
+  - DOMAIN-SUFFIX,hanshanchong.top
+  - DOMAIN-SUFFIX,757908.xyz
+  - DOMAIN-SUFFIX,hushurui.top
   - DOMAIN-SUFFIX,gazellegames.net
   - DOMAIN-SUFFIX,open.cd
   - DOMAIN-SUFFIX,djigate.com
-  - IP-CIDR,142.171.160.70/32,no-resolve
-  - IP-CIDR,154.26.185.6/32,no-resolve
-  - IP-CIDR,154.31.116.96/32,no-resolve
-  - IP-CIDR,192.3.51.154/32,no-resolve
-  - IP-CIDR,23.165.248.74/32,no-resolve
-  - IP-CIDR,195.245.229.133/32,no-resolve
-  - IP-CIDR,82.152.64.10/32,no-resolve
-  - DOMAIN-KEYWORD,quickconnect
-  - DOMAIN-KEYWORD,synology
   - DOMAIN-SUFFIX,03241119.xyz
   - DOMAIN-SUFFIX,112114.xyz
   - DOMAIN-SUFFIX,115cdn.de
@@ -320,3 +315,10 @@ payload:
   - IP-CIDR,218.78.7.16/32,no-resolve
   - IP-CIDR,5.5.5.5/32,no-resolve
   - IP-CIDR,98.126.27.164/32,no-resolve
+  - IP-CIDR,142.171.160.70/32,no-resolve
+  - IP-CIDR,154.26.185.6/32,no-resolve
+  - IP-CIDR,154.31.116.96/32,no-resolve
+  - IP-CIDR,192.3.51.154/32,no-resolve
+  - IP-CIDR,23.165.248.74/32,no-resolve
+  - IP-CIDR,195.245.229.133/32,no-resolve
+  - IP-CIDR,82.152.64.10/32,no-resolve
