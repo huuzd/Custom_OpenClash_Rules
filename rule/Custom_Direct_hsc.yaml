@@ -1,12 +1,13 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 316
+# TOTAL: 317
 # hsc20251030
 
 payload:
   - DOMAIN-SUFFIX,cc.hanshanchong.com
   - DOMAIN-SUFFIX,sub.hanshanchong.com
+  - DOMAIN-SUFFIX,pic.hanshanchong.com
   - DOMAIN-SUFFIX,gazellegames.net
   - DOMAIN-SUFFIX,open.cd
   - DOMAIN-SUFFIX,djigate.com
