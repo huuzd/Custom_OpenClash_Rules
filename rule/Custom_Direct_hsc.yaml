@@ -1,8 +1,8 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 318
-# hsc20251101
+# TOTAL: 319
+# hsc20251105
 
 payload:
   - DOMAIN-SUFFIX,hanshanchong.com
@@ -19,6 +19,7 @@ payload:
   - IP-CIDR,23.165.248.74/32,no-resolve
   - IP-CIDR,195.245.229.133/32,no-resolve
   - IP-CIDR,82.152.64.10/32,no-resolve
+  - IP-CIDR,154.26.182.79/32,no-resolve
   - DOMAIN-KEYWORD,quickconnect
   - DOMAIN-KEYWORD,synology
   - DOMAIN-SUFFIX,03241119.xyz
