@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,recordcity.jp
-  - DOMAIN-SUFFIX,jp
-  - DOMAIN-SUFFIX,hk
-  - DOMAIN-SUFFIX,tw
-  - DOMAIN-SUFFIX,kr
+  - DOMAIN-REGEX,\.jp$
+  - DOMAIN-REGEX,\.hk$
+  - DOMAIN-REGEX,\.tw$
+  - DOMAIN-REGEX,\.kr$
