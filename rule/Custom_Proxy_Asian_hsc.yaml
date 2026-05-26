@@ -1,4 +1,4 @@
-# hsc20251126
+# hsc20260526
 
 payload:
   - DOMAIN-KEYWORD,tensojapan
@@ -14,3 +14,7 @@ payload:
   - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,recordcity.jp
+  - DOMAIN-SUFFIX,jp
+  - DOMAIN-SUFFIX,hk
+  - DOMAIN-SUFFIX,tw
+  - DOMAIN-SUFFIX,kr
